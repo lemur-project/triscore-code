@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+env/
+
+.git/
+.gitignore
+
+MTD_KERN/
+wandb/
+weights/
+data/
+logs/
+checkpoints/
+
+*.log
