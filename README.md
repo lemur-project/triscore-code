@@ -4,7 +4,7 @@
 
 <h1 align='center'>TriScore: Aligning Audio, Symbolic Scores, and Sheet Music Images in a Shared Embedding Space</h1>
 
-<h4 align='center'>Full text yet to be published<a href='/' target='_blank'></a>.</h4>
+<h4 align="center">Full text available <a href="https://www.sciencedirect.com/science/article/pii/S0031320326008915" target="_blank">here</a>.</h4>
 
 <p align='center'>
   <img src='https://img.shields.io/badge/python-3.11.12-orange' alt='Python'>
